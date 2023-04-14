@@ -1,0 +1,223 @@
+[
+    {
+        "name": "Interop Summit",
+        "location": "Denver",
+        "start_date": "2/27",
+        "end_date": "2/28",
+        "organizers": "Axelar",
+        "size": "big",
+        "url": "https://interopsummit.com/",
+        "organizer_url": "https://axelar.network/"
+    },
+    {
+        "name": "Shared Security Summit",
+        "location": "Denver",
+        "start_date": "3/2",
+        "end_date": "3/2",
+        "organizers": "Babylon, EigenLayer",
+        "size": "big",
+        "url": "https://sharedsecuritysummit.io/",
+        "organizer_url": "https://www.eigenlayer.xyz/,https://babylonchain.io/"
+    },
+    {
+        "name": "HandyCon",
+        "location": "Virtual",
+        "start_date": "3/8",
+        "end_date": "3/10",
+        "organizers": "Handshake",
+        "size": "big",
+        "url": "https://www.handycon.xyz/",
+        "organizer_url": "https://handshake.org/"
+    },
+    {
+        "name": "The Cosmos Ladies Summit",
+        "location": "Virtual",
+        "start_date": "3/9",
+        "end_date": "3/9",
+        "organizers": "The Cosmos Ladies",
+        "size": "big",
+        "url": "https://www.youtube.com/watch?v=X-gTictMAAo",
+        "organizer_url": "https://twitter.com/thecosmosladies"
+    },
+    {
+        "name": "Saga Multiverse Reactor",
+        "location": "Austin",
+        "start_date": "4/26",
+        "end_date": "4/26",
+        "organizers": "Saga",
+        "size": "big",
+        "url": "https://www.eventbrite.com/e/saga-multiverse-reactor-tickets-604047942657",
+        "organizer_url": "https://www.saga.xyz/"
+    },
+    {
+        "name": "EVM Next",
+        "location": "Austin",
+        "start_date": "4/27",
+        "end_date": "4/27",
+        "organizers": "Evmos",
+        "size": "big",
+        "url": "https://www.evmnext.com/",
+        "organizer_url": "https://evmos.org/"
+    },
+    {
+        "name": "EVMNext - Survival Party",
+        "location": "Austin",
+        "start_date": "4/27",
+        "end_date": "4/27",
+        "organizers": "Evmos",
+        "size": "big",
+        "url": "https://www.eventbrite.ca/e/evmnext-survival-party-tickets-597989451547",
+        "organizer_url": "https://evmos.org/"
+    },
+    {
+        "name": "IBC Summit",
+        "location": "Austin",
+        "start_date": "4/28",
+        "end_date": "4/28",
+        "organizers": "Polymer",
+        "size": "big",
+        "url": "https://twitter.com/ibc_summit?",
+        "organizer_url": "https://www.polymerlabs.org/"
+    },
+    {
+        "name": "Gateway to Cosmos",
+        "location": "Prague",
+        "start_date": "6/3",
+        "end_date": "6/5",
+        "organizers": "Rockaway x",
+        "size": "big",
+        "url": "https://gateway.events/",
+        "organizer_url": "https://rockawayx.com/"
+    },
+    {
+        "name": "HackAtom - Seoul",
+        "location": "Seoul",
+        "start_date": "6/9",
+        "end_date": "6/11",
+        "organizers": "KryptoSeoul",
+        "size": "big",
+        "url": "https://www.buidl.asia/hackatomseoul2022",
+        "organizer_url": "https://twitter.com/kryptoseoul"
+    },
+    {
+        "name": "AwesomWasm",
+        "location": "Berlin",
+        "start_date": "7/12",
+        "end_date": "7/16",
+        "organizers": "Confio",
+        "size": "big",
+        "url": "https://awesomwasm.com/",
+        "organizer_url": "https://confio.gmbh/"
+    },
+    {
+        "name": "Osmocon",
+        "location": "Paris",
+        "start_date": "7/21",
+        "end_date": "7/21",
+        "organizers": "Osmosis",
+        "size": "big",
+        "url": "https://twitter.com/osmosiszone/status/1636397005693136897?s=20",
+        "organizer_url": "https://osmosis.zone/"
+    },
+    {
+        "name": "Nebular Summit",
+        "location": "Paris",
+        "start_date": "7/24",
+        "end_date": "7/25",
+        "organizers": "Interop",
+        "size": "big",
+        "url": "https://nebular.paris/",
+        "organizer_url": "https://interop.ventures/"
+    },
+    {
+        "name": "Cosmoverse",
+        "location": "Istanbul",
+        "start_date": "TBA",
+        "end_date": "TBA",
+        "organizers": "Cryptocito",
+        "size": "big",
+        "url": "https://cosmoverse.org/",
+        "organizer_url": "https://twitter.com/Cryptocito"
+    },
+    {
+        "name": "Atom Accelorator",
+        "location": "Virtual",
+        "start_date": "Ongoing",
+        "end_date": "Ongoing",
+        "organizers": "Cosmos Hub",
+        "size": "big",
+        "url": "https://www.atomaccelerator.com/",
+        "organizer_url": "https://hub.cosmos.network/main/hub-overview/overview.html"
+    },
+    {   "name": "zkHour: Pioneering Use Cases of Zero-Knowledge Technology",
+        "location": "Denver",    
+        "date": "2/26",
+        "organizers": "ZKEX, Holonym, BTQ, zkLink",
+        "size": "small",
+        "url": "https://lu.ma/tp63vn84",
+        "organizer_url": ""
+  },
+  {
+        "name": "Cosmos Peak : Brewery Event",
+        "location": "Denver",
+        "date": "2/27",
+        "organizers": ["Agoric"],
+        "size": "small",
+        "url": "https://lu.ma/cosmos-denver",
+        "organizer_url": ""
+  },
+  {
+        "name": "Cosmos Breakfast",
+        "location": "Denver",
+        "date": "3/2",
+        "organizers": "EduDAO, Babylonchain, Eclipse, Polymer, Halborn, Sushi, Shima, Frontier, Secret",
+        "size": "small",
+        "url": "https://www.eventbrite.co.uk/e/cosmos-breakfast-with-your-crypto-bffs-at-eth-denver-tickets-524982405507",
+        "organizer_url": ""
+  },
+  {
+        "name": "Cosmos on Tap: A Cosmos Panel & Cocktail Party",
+        "location": "Denver",
+        "date": "3/2",
+        "organizers": "Injective, Secret Network, Evmos, Nym, Akash Network, Althea",
+        "size": "small",
+        "url": "https://www.eventbrite.com/e/cosmos-on-tap-a-cosmos-panel-cocktail-party-tickets-537837475367",
+        "organizer_url": ""
+  },
+  {
+        "name": "ATOM Dubai",
+        "location": "Dubai",
+        "date": "TBA",
+        "organizers": "Cosmoverse",
+        "size": "small",
+        "url": "https://twitter.com/CosmoverseHQ/status/1633923422232145920?t=5jW6JfnCJg7yQYl5gP-T8w&s=03t",
+        "organizer_url": ""
+  },
+  {
+        "name": "Future of Cosmos & Interchain Infrastructure",
+        "location": "Paris",
+        "date": "3/23",
+        "organizers": "Nebular",
+        "size": "small",
+        "url": "https://www.eventbrite.fr/e/future-of-cosmos-interchain-infrastructure-paris-blockchain-week-tickets-576944976957",
+        "organizer_url": ""
+  },
+  {
+        "name": "East Coast West Coast Cosmos event!",
+        "location": "NYC & SF",
+        "date": "4/7",
+        "organizers": "IBC",
+        "size": "small",
+        "url": "https://partiful.com/e/L2Dpk1JcbdD4y2VATrLY",
+        "organizer_url": ""
+  },
+  {
+        "name": "Cosmos Meetup",
+        "location": "New York City",
+        "date": "4/13",
+        "organizers": "Agoric",
+        "size": "small",
+        "url": "https://www.meetup.com/cosmos/events/292577960",
+        "organizer_url": ""
+  }
+]

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cosmos Events</title>
+	<style>
+		table {
+			border-collapse: collapse;
+			width: 100%;
+			text-align: left;
+		}
+
+		th, td {
+			padding: 8px;
+			border: 1px solid #ddd;
+		}
+
+		th {
+			background-color: #f2f2f2;
+		}
+	</style>
+</head>
+<body>
+	<h1>Cosmos Events 2023</h1>
+	<p>Filter by size:</p>
+	<ul>
+		<li><a href="?size=small">Small events</a></li>
+		<li><a href="?size=big">Big events</a></li>
+		<li><a href="/">All events</a></li>
+	</ul>
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Location</th>
+				<th>Start Date</th>
+				<th>End Date</th>
+				<th>Organizers</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for event in events %}
+			<tr>
+				<td><a href="{{ event.url }}">{{ event.name }}</a></td>
+				<td>{{ event.location }}</td>
+				<td>{{ event.start_date }}</td>
+				<td>{{ event.end_date }}</td>
+				<td>
+					{% if event.organizer_url %}
+					<a href="{{ event.organizer_url }}">{{ event.organizers }}</a>
+					{% else %}
+					{{ event.organizers }}
+					{% endif %}
+					{% if event.size == 'big' %}
+					(Big event)
+					{% elif event.size == 'small' %}
+					(Small event)
+					{% endif %}
+				</td>
+				<td>{{ event.notes }}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+	<div class="footnote">
+		<p>Based on <a href="https://docs.google.com/spreadsheets/u/0/d/10vIRqfW5KBY2KLejMbrMYN260tJ3zkdx0TjyG_uHCkY/htmlview#" target="_blank">https://docs.google.com/spreadsheets/u/0/d/10vIRqfW5KBY2KLejMbrMYN260tJ3zkdx0TjyG_uHCkY/htmlview#</a></p>
+	</div>
+	<footer>
+		<p>Hosted on <a href="https://akash.network"><img src="https://www.gitbook.com/cdn-cgi/image/width=256,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F2158902166-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-LrNFlfuifzmQ_NMKu9C%252Favatar-rectangle-1625812830430.png%3Fgeneration%3D1625812830718300%26alt%3Dmedia" alt="Akash" height="20px"></a></p>
+	</footer>
+</body>
+</html>
+
