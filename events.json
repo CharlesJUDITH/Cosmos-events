@@ -151,7 +151,7 @@
     },
     {   "name": "zkHour: Pioneering Use Cases of Zero-Knowledge Technology",
         "location": "Denver",    
-        "date": "2/26",
+        "start_date": "2/26",
         "organizers": "ZKEX, Holonym, BTQ, zkLink",
         "size": "small",
         "url": "https://lu.ma/tp63vn84",
@@ -160,7 +160,7 @@
   {
         "name": "Cosmos Peak : Brewery Event",
         "location": "Denver",
-        "date": "2/27",
+        "start_date": "2/27",
         "organizers": ["Agoric"],
         "size": "small",
         "url": "https://lu.ma/cosmos-denver",
@@ -169,7 +169,7 @@
   {
         "name": "Cosmos Breakfast",
         "location": "Denver",
-        "date": "3/2",
+        "start_date": "3/2",
         "organizers": "EduDAO, Babylonchain, Eclipse, Polymer, Halborn, Sushi, Shima, Frontier, Secret",
         "size": "small",
         "url": "https://www.eventbrite.co.uk/e/cosmos-breakfast-with-your-crypto-bffs-at-eth-denver-tickets-524982405507",
@@ -178,7 +178,7 @@
   {
         "name": "Cosmos on Tap: A Cosmos Panel & Cocktail Party",
         "location": "Denver",
-        "date": "3/2",
+        "start_date": "3/2",
         "organizers": "Injective, Secret Network, Evmos, Nym, Akash Network, Althea",
         "size": "small",
         "url": "https://www.eventbrite.com/e/cosmos-on-tap-a-cosmos-panel-cocktail-party-tickets-537837475367",
@@ -187,7 +187,7 @@
   {
         "name": "ATOM Dubai",
         "location": "Dubai",
-        "date": "TBA",
+        "start_date": "TBA",
         "organizers": "Cosmoverse",
         "size": "small",
         "url": "https://twitter.com/CosmoverseHQ/status/1633923422232145920?t=5jW6JfnCJg7yQYl5gP-T8w&s=03t",
@@ -196,7 +196,7 @@
   {
         "name": "Future of Cosmos & Interchain Infrastructure",
         "location": "Paris",
-        "date": "3/23",
+        "start_date": "3/23",
         "organizers": "Nebular",
         "size": "small",
         "url": "https://www.eventbrite.fr/e/future-of-cosmos-interchain-infrastructure-paris-blockchain-week-tickets-576944976957",
@@ -205,7 +205,7 @@
   {
         "name": "East Coast West Coast Cosmos event!",
         "location": "NYC & SF",
-        "date": "4/7",
+        "start_date": "4/7",
         "organizers": "IBC",
         "size": "small",
         "url": "https://partiful.com/e/L2Dpk1JcbdD4y2VATrLY",
@@ -214,7 +214,7 @@
   {
         "name": "Cosmos Meetup",
         "location": "New York City",
-        "date": "4/13",
+        "start_date": "4/13",
         "organizers": "Agoric",
         "size": "small",
         "url": "https://www.meetup.com/cosmos/events/292577960",
