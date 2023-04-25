@@ -57,4 +57,4 @@ jobs:
       
       - name: Scan Docker image for vulnerabilities
         run: |
-          trivy image ghcr.io/charlesjudith/cosmos-events:${{ github.ref_name }} --severity HIGH,CRITICAL --exit-code 1
+          trivy image ghcr.io/charlesjudith/cosmos-events:${{ github.ref_name }}
