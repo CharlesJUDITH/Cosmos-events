@@ -110,6 +110,16 @@
         "organizer_url": "https://confio.gmbh/"
     },
     {
+        "name": "Modular Summit",
+        "location": "Paris",
+        "start_date": "7/21",
+        "end_date": "7/22",
+        "organizers": "Celestia",
+        "size": "big",
+        "url": "https://twitter.com/modular_summit",
+        "organizer_url": "https://celestia.org/"
+    },
+    {
         "name": "Osmocon",
         "location": "Paris",
         "start_date": "7/21",
